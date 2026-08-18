@@ -1,0 +1,2 @@
+# mailer
+SIMPLE SMTP MAILER IN PYTHON
